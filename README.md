@@ -2,7 +2,7 @@
 
 🔥 Selamat datang di HackerRank Preparation Kit! Repositori ini dirancang untuk membantu Kita mempersiapkan wawancara pemrograman menggunakan bahasa Kotlin.
 
-## Daftar Isi
+## 📜 Daftar Isi
 - [Pendahuluan](#pendahuluan)
 - [Persyaratan](#persyaratan)
 - [Pengaturan](#pengaturan)
