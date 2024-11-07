@@ -1,6 +1,6 @@
 # HackerRank Preparation Kit untuk Pemrograman Wawancara bahasa Kotlin
 
-Selamat datang di HackerRank Preparation Kit! Repositori ini dirancang untuk membantu Kita mempersiapkan wawancara pemrograman menggunakan bahasa Kotlin.
+🔥 Selamat datang di HackerRank Preparation Kit! Repositori ini dirancang untuk membantu Kita mempersiapkan wawancara pemrograman menggunakan bahasa Kotlin.
 
 ## Daftar Isi
 - [Pendahuluan](#pendahuluan)
@@ -11,7 +11,7 @@ Selamat datang di HackerRank Preparation Kit! Repositori ini dirancang untuk mem
 - [Kontribusi](#kontribusi)
 - [Kontak](#kontak)
 
-## Pendahuluan
+## 🔥 Pendahuluan
 Repositori ini berisi kumpulan masalah dan solusi untuk membantu Kita mempersiapkan wawancara teknis. Setiap masalah diselesaikan menggunakan Kotlin, dengan penjelasan rinci dan pendekatan alternatif jika diperlukan.
 
 ## Persyaratan
@@ -19,7 +19,7 @@ Sebelum Kita memulai, pastikan Kita telah memenuhi persyaratan berikut:
 - Telah menginstal [Kotlin](https://kotlinlang.org/) dan [Android Studio](https://developer.android.com/studio).
 - Memiliki pemahaman dasar tentang konsep pemrograman dan bahasa Kotlin.
 
-## Pengaturan
+## 📝 Pengaturan
 Untuk mengatur proyek ini secara lokal, ikuti langkah-langkah berikut:
 1. Clone repositori ini:
     ```bash
@@ -31,7 +31,7 @@ Untuk mengatur proyek ini secara lokal, ikuti langkah-langkah berikut:
 ## Penggunaan
 Untuk menjalankan solusi, buka file Kotlin yang diinginkan di Android Studio dan klik tombol run. Setiap solusi bersifat mandiri dan dapat dijalankan secara independen.
 
-## Topik yang Dicakup
+## 🚀 Topik yang Dicakup
 Repositori ini mencakup berbagai topik yang penting untuk wawancara teknis, termasuk:
 - Struktur Data
 - Algoritma
@@ -41,7 +41,7 @@ Repositori ini mencakup berbagai topik yang penting untuk wawancara teknis, term
 - Penyortiran dan Pencarian
 - Dan lain-lain...
 
-## Kontribusi
+## 🤝 Kontribusi
 Kontribusi sangat diterima! Jika Anda memiliki masalah atau solusi untuk ditambahkan, ikuti langkah-langkah berikut:
 1. Fork repositori ini.
 2. Buat cabang baru (`git checkout -b feature-branch`).
@@ -49,7 +49,7 @@ Kontribusi sangat diterima! Jika Anda memiliki masalah atau solusi untuk ditamba
 4. Push ke cabang tersebut (`git push origin feature-branch`).
 5. Buka pull request.
 
-## Kontak
+## 🗨️ Kontak
 Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi:
 - GitHub: [KusAndiPriyono](https://github.com/KusAndiPriyono)
 - Email: [andipriyono94](andipriyono94@gmail.com)
