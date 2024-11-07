@@ -4,7 +4,7 @@ Selamat datang di HackerRank Preparation Kit! Repositori ini dirancang untuk mem
 
 ## Daftar Isi
 - [Pendahuluan](#pendahuluan)
-- [Prasyarat](#prasyarat)
+- [Persyaratan](#persyaratan)
 - [Pengaturan](#pengaturan)
 - [Penggunaan](#penggunaan)
 - [Topik yang Dicakup](#topik-yang-dicakup)
