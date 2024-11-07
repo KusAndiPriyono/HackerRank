@@ -14,7 +14,7 @@ Selamat datang di HackerRank Preparation Kit! Repositori ini dirancang untuk mem
 ## Pendahuluan
 Repositori ini berisi kumpulan masalah dan solusi untuk membantu Kita mempersiapkan wawancara teknis. Setiap masalah diselesaikan menggunakan Kotlin, dengan penjelasan rinci dan pendekatan alternatif jika diperlukan.
 
-## Prasyaratan
+## Persyaratan
 Sebelum Kita memulai, pastikan Kita telah memenuhi persyaratan berikut:
 - Telah menginstal [Kotlin](https://kotlinlang.org/) dan [Android Studio](https://developer.android.com/studio).
 - Memiliki pemahaman dasar tentang konsep pemrograman dan bahasa Kotlin.
